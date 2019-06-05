@@ -1,2 +1,2 @@
 # hello-world
-This is the lab that must be completed for CSC154 Lesson 6
+The purpose of this lab is to learn about the tools offered by github for version control, and how to view changes between versions.
